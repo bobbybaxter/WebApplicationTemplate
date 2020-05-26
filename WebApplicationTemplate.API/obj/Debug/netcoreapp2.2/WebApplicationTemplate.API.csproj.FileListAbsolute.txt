@@ -1,0 +1,16 @@
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\bin\Debug\netcoreapp2.2\WebApplicationTemplate.API.deps.json
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\bin\Debug\netcoreapp2.2\WebApplicationTemplate.API.runtimeconfig.json
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\bin\Debug\netcoreapp2.2\WebApplicationTemplate.API.runtimeconfig.dev.json
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\bin\Debug\netcoreapp2.2\WebApplicationTemplate.API.dll
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\bin\Debug\netcoreapp2.2\WebApplicationTemplate.API.pdb
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\obj\Debug\netcoreapp2.2\WebApplicationTemplate.API.csprojAssemblyReference.cache
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\obj\Debug\netcoreapp2.2\WebApplicationTemplate.API.RazorAssemblyInfo.cache
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\obj\Debug\netcoreapp2.2\WebApplicationTemplate.API.RazorAssemblyInfo.cs
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\obj\Debug\netcoreapp2.2\WebApplicationTemplate.API.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\obj\Debug\netcoreapp2.2\WebApplicationTemplate.API.AssemblyInfo.cs
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\obj\Debug\netcoreapp2.2\WebApplicationTemplate.API.RazorTargetAssemblyInfo.cache
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\obj\Debug\netcoreapp2.2\WebApplicationTemplate.API.dll
+C:\Users\Bob\source\repos\WebApplicationTemplate.API\WebApplicationTemplate.API\obj\Debug\netcoreapp2.2\WebApplicationTemplate.API.pdb
